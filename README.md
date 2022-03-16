@@ -15,3 +15,6 @@ Ejemplo para iniciar contenedor con PHP, Nginx y PostgreSQL
   
 Para verificar que los servicios hayan iniciado correctamente ingresar el comando
   <h4>docker ps -a</h4>
+
+El siguiente proyecto se basa en este repositorio
+  https://github.com/laradock/laradock
