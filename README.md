@@ -6,6 +6,9 @@ Agregar variables de entorno
 
 Iniciar servicios
   <h4>docker-compose up -d <nombres del servicio> </h4>
+  
+Deberá crear directorio sites el cual contendrá las carpetras con el código del proyecto
+  <h4>mkdir sites</h4>
 
 Ejemplo para iniciar contenedor con PHP, Nginx y PostgreSQL
   <h4>docker-compose up -d php-fpm nginx postgres</h4>
