@@ -1,5 +1,4 @@
 # servicesRTP
-The repository contains files to generate a development environment with Postgres, Nginx, PHP, Mysql services
 
 Agregar variables de entorno
 <h4>cp .env.example .env </h4>
